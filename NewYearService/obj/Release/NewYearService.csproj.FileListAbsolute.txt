@@ -1,0 +1,7 @@
+C:\Work\C # info\WCF\NewYearService\NewYearService\bin\NewYearService.dll.config
+C:\Work\C # info\WCF\NewYearService\NewYearService\bin\NewYearService.dll
+C:\Work\C # info\WCF\NewYearService\NewYearService\bin\NewYearService.pdb
+C:\Work\C # info\WCF\NewYearService\NewYearService\obj\Release\NewYearService.csprojAssemblyReference.cache
+C:\Work\C # info\WCF\NewYearService\NewYearService\obj\Release\NewYearService.csproj.CoreCompileInputs.cache
+C:\Work\C # info\WCF\NewYearService\NewYearService\obj\Release\NewYearService.dll
+C:\Work\C # info\WCF\NewYearService\NewYearService\obj\Release\NewYearService.pdb

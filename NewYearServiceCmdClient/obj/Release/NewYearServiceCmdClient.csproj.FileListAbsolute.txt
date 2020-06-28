@@ -1,0 +1,7 @@
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Release\NewYearServiceCmdClient.exe.config
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Release\NewYearServiceCmdClient.exe
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Release\NewYearServiceCmdClient.pdb
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Release\NewYearServiceCmdClient.csprojAssemblyReference.cache
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Release\NewYearServiceCmdClient.csproj.CoreCompileInputs.cache
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Release\NewYearServiceCmdClient.exe
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Release\NewYearServiceCmdClient.pdb
