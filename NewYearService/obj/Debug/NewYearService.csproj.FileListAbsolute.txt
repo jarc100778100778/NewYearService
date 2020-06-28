@@ -1,0 +1,7 @@
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\bin\NewYearService.dll.config
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\bin\NewYearService.dll
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\bin\NewYearService.pdb
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\obj\Debug\NewYearService.csprojAssemblyReference.cache
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\obj\Debug\NewYearService.csproj.CoreCompileInputs.cache
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\obj\Debug\NewYearService.dll
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearService\obj\Debug\NewYearService.pdb
