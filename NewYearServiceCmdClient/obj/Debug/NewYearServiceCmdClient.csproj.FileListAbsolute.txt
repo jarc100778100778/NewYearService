@@ -1,0 +1,14 @@
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.exe.config
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.exe
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.pdb
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.csprojAssemblyReference.cache
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.csproj.CoreCompileInputs.cache
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.exe
+C:\Users\adel\Documents\Visual Studio 2017\Projects\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.pdb
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.exe.config
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.exe
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\bin\Debug\NewYearServiceCmdClient.pdb
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.csprojAssemblyReference.cache
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.csproj.CoreCompileInputs.cache
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.exe
+C:\Work\C # info\WCF\NewYearService\NewYearServiceCmdClient\obj\Debug\NewYearServiceCmdClient.pdb
